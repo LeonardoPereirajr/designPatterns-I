@@ -1,7 +1,7 @@
 # designPatterns-I
 
 
-Strategy Ver primeiro vídeo
+Strategy
 
 Chain of Responsibility
 
